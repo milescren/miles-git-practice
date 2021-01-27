@@ -1,4 +1,4 @@
-# miles' git practice
+# Miles' git practice
 
 By Miles Crenwelge, Intro Coding for Journalists class
 
